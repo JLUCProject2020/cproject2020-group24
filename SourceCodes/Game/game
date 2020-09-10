@@ -1,0 +1,6 @@
+#include "game"
+
+gameWindow::gameWindow(QWidget *parent) : QMainWindow(parent)
+{
+
+}
